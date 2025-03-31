@@ -20,9 +20,3 @@ google-generativeai==0.3.1
 
 # Environment variables
 python-dotenv==1.0.0
-
-# Date and time handling
-pytz==2023.3
-
-# Temporary file handling
-tempfile2==0.0.0
