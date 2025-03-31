@@ -1090,7 +1090,6 @@ def api_run_tests():
         'results': results
     })
 
-
 if __name__ == "__main__":
     # Create test cases file if it doesn't exist
     if not os.path.exists(test_cases_file):

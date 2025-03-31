@@ -1,0 +1,2 @@
+id,description,website_url,username,password,username_field,password_field,submit_button,success_indicators,logout_url,expected,browser,actual_result
+TC001,valid id password,https://gdgcmarwadiuniversity.tech/admin/login.php,GDG_Dev,dev@123,username,password,login,"dashboard,home,profile,welcome,index",,Success,chrome,Success
